@@ -3,6 +3,7 @@
     "Client_ID": "YOUR CLIENT ID BOT",
     "Mongo_URL": "YOUR MONGO URL TO CONNECT BOT DATABASE SEPARATED FROM RUSTY HEARTS",
     "Logs_Error": "YOUR WEBWOOK URL WHERE BOT ERROR LOGS WILL BE SENT",
+    "Server_IP_Port": "SERVER IP AND PORT",
     "DataBase_Host": "SERVER IP",
     "DataBase_User": "sa",
     "DataBase_DB": "RustyHearts_Account",

@@ -1,6 +1,6 @@
 {
   "name": "rustyhearts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "https://forum.ragezone.com/members/lllyuc.2000116234/",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "discord.js": "^14.11.0",
-    "mongoose": "^7.2.3",
+    "mongoose": "^7.3.1",
     "mssql": "^9.1.1"
   }
 }
